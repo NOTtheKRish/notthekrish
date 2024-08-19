@@ -51,7 +51,3 @@
 </div>
 
 </td></tr></table>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=notthekrish&show_icons=true&locale=en&layout=compact" alt="notthekrish" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notthekrish&" alt="notthekrish" /></p>
