@@ -16,9 +16,8 @@
 - 🌱 **Always Learning:** I strive to learn something new every day to stay ahead of the curve.
 - ⚡ **Philosophy:** "If it works, don't touch it..." (but optimize it when you can!).
 - 🔭 **Currently Working On:**
-  - **Texdial:** A B2B marketplace for the textile industry.
   - **LakshyHR:** A comprehensive HRMS solution.
-  - **Fleet Management System:** Optimizing logistics and transport.
+  - **VNS Transports:** Optimizing logistics and transport with Digital Fleet Management Solution.
 
 ---
 
