@@ -16,8 +16,9 @@
 - 🌱 **Always Learning:** I strive to learn something new every day to stay ahead of the curve.
 - ⚡ **Philosophy:** "If it works, don't touch it..." (but optimize it when you can!).
 - 🔭 **Currently Working On:**
+  - **LakshyOne:** [IN DEVELOPMENT🤫] A Super App.
   - **LakshyHR:** A comprehensive HRMS solution.
-  - **VNS Transports:** Optimizing logistics and transport with Digital Fleet Management Solution.
+  - **LakshyFleet:** Optimizing logistics and transport with Digital Fleet Management Solution.
 
 ---
 
